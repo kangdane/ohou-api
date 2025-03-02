@@ -1,5 +1,5 @@
-## API 테스트 자동화
-이 프로젝트는 Postman을 사용하여 Kakao API를 테스트하는 자동화 프로젝트입니다. GitHub Actions를 통해 CI/CD 파이프라인에서 자동으로 테스트를 실행합니다.
+## Bucketplace api Automation
+Postman을 사용하여 Kakao API를 테스트하는 자동화 프로젝트입니다. GitHub Actions를 통해 CI/CD 파이프라인에서 자동으로 테스트를 실행합니다.
 
 ## 요구 사항
 GitHub 계정
