@@ -25,4 +25,4 @@ jobs:
         env:
           KAKAO_API_KEY: ${{ secrets.KAKAO_API_KEY }}  # GitHub Secrets에서 API Key 불러오기
         run: |
-          newman run your_postman_collection.json --env-var KAKAO_API_KEY=$KAKAO_API_KEY
+          newman run ohou.postman_collection.json --env-var KAKAO_API_KEY=$KAKAO_API_KEY
