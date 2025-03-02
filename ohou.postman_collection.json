@@ -66,7 +66,7 @@
 					"apikey": [
 						{
 							"key": "value",
-							"value": "{{KAKAO_API_KEY}}",
+							"value": "KakaoAK {{KAKAO_API_KEY}}",
 							"type": "string"
 						},
 						{
@@ -168,7 +168,7 @@
 					"apikey": [
 						{
 							"key": "value",
-							"value": "{{KAKAO_API_KEY}}",
+							"value": "KakaoAK {{KAKAO_API_KEY}}",
 							"type": "string"
 						},
 						{
